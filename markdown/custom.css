@@ -1,0 +1,18 @@
+.small{
+  font-size: 6pt;
+}
+
+.image-80 img {
+  width: 80%;
+}
+
+.image-50 img {
+  width: 50%;
+}
+
+.image-400 img {
+  width: 400px;
+}
+.font-courier{
+  font-family: Courier;
+}
